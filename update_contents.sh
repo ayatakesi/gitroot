@@ -9,7 +9,7 @@ cd -
 VER=${1}; shift
 while [ ${1}x != ""x ]
 do
-    REPO＝emacs-${VER}-doc-lispref
+    REPO="emacs-${VER}-doc-lispref"
     URL=https://github.com/ayatakesi/${REPO}
     result=0
     git ls-remote ${URL} || result=$?
