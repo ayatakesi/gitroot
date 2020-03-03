@@ -14,7 +14,7 @@ do
     result=0
     git ls-remote ${URL} || result=$?
     if [ "$result"x = "0"x ]; then
-	if [ -f ${REPO} ]; then
+	if [ -e ${REPO} ]; then
 	    rm -fr ${REPO}
 	fi
 	
