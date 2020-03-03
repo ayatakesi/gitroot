@@ -21,7 +21,7 @@ do
 	git clone ${URL}
 	cd ${REPO}
 	make all txt pdf tar epub texinfo-js
-	cp -pf \
+	cp -pfr \
 	   elisp-ja.html \
 	   html/ \
 	   elisp-ja.info \
