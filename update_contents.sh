@@ -19,7 +19,7 @@ do
     URL=https://github.com/ayatakesi/${REPO}
     result=0
     git ls-remote ${URL} || result=$?
-    if [ "$result"x = "0"x ]; then
+    if [ "$result"x == "0"x ]; then
 	if [ -e ${REPO} ]; then
 	    rm -fr ${REPO}
 	fi
