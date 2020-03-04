@@ -6,15 +6,8 @@ cd ayatakesi.github.io
 git pull || exit 1
 cd -
 
-
-while :
+for VER in $@
 do
-    VER=${1}; shift
-    if [ "${VER}x" = "x" ]
-    then
-	break
-    fi
-    
     REPO="emacs-${VER}-doc-lispref"
     URL=https://github.com/ayatakesi/${REPO}
     result=0
