@@ -6,9 +6,15 @@ cd ayatakesi.github.io
 git pull || exit 1
 cd -
 
-VER=${1}; shift
-while [ ${1}x != ""x ]
+
+while :
 do
+    VER=${1}; shift
+    if [ ${VER}x == ""x ]
+    then
+	break
+    fi
+    
     REPO="emacs-${VER}-doc-lispref"
     URL=https://github.com/ayatakesi/${REPO}
     result=0
@@ -33,8 +39,6 @@ do
 	   ${WDIR}/ayatakesi.github.io/lispref/${VER}
 	cd -
     fi
-
-    VER=${1}; shift
 done
 
 cd ayatakesi.github.io
