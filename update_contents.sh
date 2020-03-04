@@ -10,7 +10,7 @@ cd -
 while :
 do
     VER=${1}; shift
-    if [ ${VER}x == ""x ]
+    if [ "${VER}x" == "x" ]
     then
 	break
     fi
