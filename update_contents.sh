@@ -10,7 +10,7 @@ cd -
 while :
 do
     VER=${1}; shift
-    if [ "${VER}x" == "x" ]
+    if [ "${VER}x" = "x" ]
     then
 	break
     fi
@@ -19,7 +19,7 @@ do
     URL=https://github.com/ayatakesi/${REPO}
     result=0
     git ls-remote ${URL} || result=$?
-    if [ "${result}" == "0" ]; then
+    if [ "${result}" = "0" ]; then
 	if [ -e ${REPO} ]; then
 	    rm -fr ${REPO}
 	fi
