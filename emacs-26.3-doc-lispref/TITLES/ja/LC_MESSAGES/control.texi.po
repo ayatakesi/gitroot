@@ -1,0 +1,103 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-28 23:19+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: TITLES/src/control.texi.pl:6
+msgid "@chapter Control Structures"
+msgstr ""
+
+#: TITLES/src/control.texi.pl:7
+msgid "@section Sequencing"
+msgstr ""
+
+#: TITLES/src/control.texi.pl:8
+msgid "@section Conditionals"
+msgstr ""
+
+#: TITLES/src/control.texi.pl:9
+msgid "@section Constructs for Combining Conditions"
+msgstr ""
+
+#: TITLES/src/control.texi.pl:10
+msgid "@section Pattern-Matching Conditional"
+msgstr ""
+
+#: TITLES/src/control.texi.pl:11
+#, perl-brace-format
+msgid "@subsection The @code{pcase} macro"
+msgstr ""
+
+#: TITLES/src/control.texi.pl:12
+#, perl-brace-format
+msgid "@subsection Extending @code{pcase}"
+msgstr ""
+
+#: TITLES/src/control.texi.pl:13
+msgid "@subsection Backquote-Style Patterns"
+msgstr ""
+
+#: TITLES/src/control.texi.pl:14
+#, perl-brace-format
+msgid "@subsection Destructuring with @code{pcase} Patterns"
+msgstr ""
+
+#: TITLES/src/control.texi.pl:15
+msgid "@section Iteration"
+msgstr ""
+
+#: TITLES/src/control.texi.pl:16
+msgid "@section Generators"
+msgstr ""
+
+#: TITLES/src/control.texi.pl:17
+msgid "@section Nonlocal Exits"
+msgstr ""
+
+#: TITLES/src/control.texi.pl:18
+#, perl-brace-format
+msgid "@subsection Explicit Nonlocal Exits: @code{catch} and @code{throw}"
+msgstr ""
+
+#: TITLES/src/control.texi.pl:19
+#, perl-brace-format
+msgid "@subsection Examples of @code{catch} and @code{throw}"
+msgstr ""
+
+#: TITLES/src/control.texi.pl:20
+msgid "@subsection Errors"
+msgstr ""
+
+#: TITLES/src/control.texi.pl:21
+msgid "@subsubsection How to Signal an Error"
+msgstr ""
+
+#: TITLES/src/control.texi.pl:22
+msgid "@subsubsection How Emacs Processes Errors"
+msgstr ""
+
+#: TITLES/src/control.texi.pl:23
+msgid "@subsubsection Writing Code to Handle Errors"
+msgstr ""
+
+#: TITLES/src/control.texi.pl:24
+msgid "@subsubsection Error Symbols and Condition Names"
+msgstr ""
+
+#: TITLES/src/control.texi.pl:25
+msgid "@subsection Cleaning Up from Nonlocal Exits"
+msgstr ""

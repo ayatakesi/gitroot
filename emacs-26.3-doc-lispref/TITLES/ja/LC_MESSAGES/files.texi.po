@@ -1,0 +1,146 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-28 23:19+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: TITLES/src/files.texi.pl:6
+msgid "@chapter Files"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:7
+msgid "@section Visiting Files"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:8
+msgid "@subsection Functions for Visiting Files"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:9
+msgid "@subsection Subroutines of Visiting"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:10
+msgid "@section Saving Buffers"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:11
+msgid "@section Reading from Files"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:12
+msgid "@section Writing to Files"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:13
+msgid "@section File Locks"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:14
+msgid "@section Information about Files"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:15
+msgid "@subsection Testing Accessibility"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:16
+msgid "@subsection Distinguishing Kinds of Files"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:17
+msgid "@subsection Truenames"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:18
+msgid "@subsection File Attributes"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:19
+msgid "@subsection Extended File Attributes"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:20
+msgid "@subsection Locating Files in Standard Places"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:21
+msgid "@section Changing File Names and Attributes"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:22
+msgid "@section Files and Secondary Storage"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:23
+msgid "@section File Names"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:24
+msgid "@subsection File Name Components"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:25
+msgid "@subsection Absolute and Relative File Names"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:26
+msgid "@subsection Directory Names"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:27
+msgid "@subsection Functions that Expand Filenames"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:28
+msgid "@subsection Generating Unique File Names"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:29
+msgid "@subsection File Name Completion"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:30
+msgid "@subsection Standard File Names"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:31
+msgid "@section Contents of Directories"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:32
+msgid "@section Creating, Copying and Deleting Directories"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:33
+msgid "@section Making Certain File Names ``Magic''"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:34
+msgid "@section File Format Conversion"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:35
+msgid "@subsection Overview"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:36
+msgid "@subsection Round-Trip Specification"
+msgstr ""
+
+#: TITLES/src/files.texi.pl:37
+msgid "@subsection Piecemeal Specification"
+msgstr ""

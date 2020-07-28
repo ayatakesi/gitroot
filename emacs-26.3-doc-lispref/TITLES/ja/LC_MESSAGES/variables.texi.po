@@ -1,0 +1,132 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-28 23:19+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: TITLES/src/variables.texi.pl:6
+msgid "@chapter Variables"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:7
+msgid "@section Global Variables"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:8
+msgid "@section Variables that Never Change"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:9
+msgid "@section Local Variables"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:10
+msgid "@section When a Variable is Void"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:11
+msgid "@section Defining Global Variables"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:12
+msgid "@section Tips for Defining Variables Robustly"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:13
+msgid "@section Accessing Variable Values"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:14
+msgid "@section Setting Variable Values"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:15
+msgid "@section Running a function when a variable is changed."
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:16
+msgid "@subsection Limitations"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:17
+msgid "@section Scoping Rules for Variable Bindings"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:18
+msgid "@subsection Dynamic Binding"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:19
+msgid "@subsection Proper Use of Dynamic Binding"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:20
+msgid "@subsection Lexical Binding"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:21
+msgid "@subsection Using Lexical Binding"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:22
+msgid "@section Buffer-Local Variables"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:23
+msgid "@subsection Introduction to Buffer-Local Variables"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:24
+msgid "@subsection Creating and Deleting Buffer-Local Bindings"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:25
+msgid "@subsection The Default Value of a Buffer-Local Variable"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:26
+msgid "@section File Local Variables"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:27
+msgid "@section Directory Local Variables"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:28
+msgid "@section Connection Local Variables"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:29
+msgid "@section Variable Aliases"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:30
+msgid "@section Variables with Restricted Values"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:31
+msgid "@section Generalized Variables"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:32
+#, perl-brace-format
+msgid "@subsection The @code{setf} Macro"
+msgstr ""
+
+#: TITLES/src/variables.texi.pl:33
+#, perl-brace-format
+msgid "@subsection Defining new @code{setf} forms"
+msgstr ""

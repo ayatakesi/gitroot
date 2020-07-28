@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-28 23:19+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: TITLES/src/windows.texi.pl:6
+msgid "@chapter Windows"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:7
+msgid "@section Basic Concepts of Emacs Windows"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:8
+msgid "@section Windows and Frames"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:9
+msgid "@section Window Sizes"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:10
+msgid "@section Resizing Windows"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:11
+msgid "@section Preserving Window Sizes"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:12
+msgid "@section Splitting Windows"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:13
+msgid "@section Deleting Windows"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:14
+msgid "@section Recombining Windows"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:15
+msgid "@section Selecting Windows"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:16
+msgid "@section Cyclic Ordering of Windows"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:17
+msgid "@section Buffers and Windows"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:18
+msgid "@section Switching to a Buffer in a Window"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:19
+msgid "@section Displaying a Buffer in a Suitable Window"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:20
+msgid "@subsection Choosing a Window for Displaying a Buffer"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:21
+msgid "@subsection Action Functions for Buffer Display"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:22
+msgid "@subsection Action Alists for Buffer Display"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:23
+msgid "@subsection Additional Options for Displaying Buffers"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:24
+msgid "@subsection Precedence of Action Functions"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:25
+msgid "@subsection The Zen of Buffer Display"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:26
+msgid "@section Window History"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:27
+msgid "@section Dedicated Windows"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:28
+msgid "@section Quitting Windows"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:29
+msgid "@section Side Windows"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:30
+msgid "@subsection Displaying Buffers in Side Windows"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:31
+msgid "@subsection Side Window Options and Functions"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:32
+msgid "@subsection Frame Layouts with Side Windows"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:33
+msgid "@section Atomic Windows"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:34
+msgid "@section Windows and Point"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:35
+msgid "@section The Window Start and End Positions"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:36
+msgid "@section Textual Scrolling"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:37
+msgid "@section Vertical Fractional Scrolling"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:38
+msgid "@section Horizontal Scrolling"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:39
+msgid "@section Coordinates and Windows"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:40
+msgid "@section Mouse Window Auto-selection"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:41
+msgid "@section Window Configurations"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:42
+msgid "@section Window Parameters"
+msgstr ""
+
+#: TITLES/src/windows.texi.pl:43
+msgid "@section Hooks for Window Scrolling and Changes"
+msgstr ""

@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-28 23:19+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: TITLES/src/frames.texi.pl:6
+msgid "@chapter Frames"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:7
+msgid "@section Creating Frames"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:8
+msgid "@section Multiple Terminals"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:9
+msgid "@section Frame Geometry"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:10
+msgid "@subsection Frame Layout"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:11
+msgid "@subsection Frame Font"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:12
+msgid "@subsection Frame Position"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:13
+msgid "@subsection Frame Size"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:14
+msgid "@subsection Implied Frame Resizing"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:15
+msgid "@section Frame Parameters"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:16
+msgid "@subsection Access to Frame Parameters"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:17
+msgid "@subsection Initial Frame Parameters"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:18
+msgid "@subsection Window Frame Parameters"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:19
+msgid "@subsubsection Basic Parameters"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:20
+msgid "@subsubsection Position Parameters"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:21
+msgid "@subsubsection Size Parameters"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:22
+msgid "@subsubsection Layout Parameters"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:23
+msgid "@subsubsection Buffer Parameters"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:24
+msgid "@subsubsection Frame Interaction Parameters"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:25
+msgid "@subsubsection Mouse Dragging Parameters"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:26
+msgid "@subsubsection Window Management Parameters"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:27
+msgid "@subsubsection Cursor Parameters"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:28
+msgid "@subsubsection Font and Color Parameters"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:29
+msgid "@subsection Geometry"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:30
+msgid "@section Terminal Parameters"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:31
+msgid "@section Frame Titles"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:32
+msgid "@section Deleting Frames"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:33
+msgid "@section Finding All Frames"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:34
+msgid "@section Minibuffers and Frames"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:35
+msgid "@section Input Focus"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:36
+msgid "@section Visibility of Frames"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:37
+msgid "@section Raising, Lowering and Restacking Frames"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:38
+msgid "@section Frame Configurations"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:39
+msgid "@section Child Frames"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:40
+msgid "@section Mouse Tracking"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:41
+msgid "@section Mouse Position"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:42
+msgid "@section Pop-Up Menus"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:43
+msgid "@section Dialog Boxes"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:44
+msgid "@section Pointer Shape"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:45
+msgid "@section Window System Selections"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:46
+msgid "@section Drag and Drop"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:47
+msgid "@section Color Names"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:48
+msgid "@section Text Terminal Colors"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:49
+msgid "@section X Resources"
+msgstr ""
+
+#: TITLES/src/frames.texi.pl:50
+msgid "@section Display Feature Testing"
+msgstr ""

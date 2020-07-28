@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-28 23:19+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: TITLES/src/numbers.texi.pl:6
+msgid "@chapter Numbers"
+msgstr ""
+
+#: TITLES/src/numbers.texi.pl:7
+msgid "@section Integer Basics"
+msgstr ""
+
+#: TITLES/src/numbers.texi.pl:8
+msgid "@section Floating-Point Basics"
+msgstr ""
+
+#: TITLES/src/numbers.texi.pl:9
+msgid "@section Type Predicates for Numbers"
+msgstr ""
+
+#: TITLES/src/numbers.texi.pl:10
+msgid "@section Comparison of Numbers"
+msgstr ""
+
+#: TITLES/src/numbers.texi.pl:11
+msgid "@section Numeric Conversions"
+msgstr ""
+
+#: TITLES/src/numbers.texi.pl:12
+msgid "@section Arithmetic Operations"
+msgstr ""
+
+#: TITLES/src/numbers.texi.pl:13
+msgid "@section Rounding Operations"
+msgstr ""
+
+#: TITLES/src/numbers.texi.pl:14
+msgid "@section Bitwise Operations on Integers"
+msgstr ""
+
+#: TITLES/src/numbers.texi.pl:15
+msgid "@section Standard Mathematical Functions"
+msgstr ""
+
+#: TITLES/src/numbers.texi.pl:16
+msgid "@section Random Numbers"
+msgstr ""

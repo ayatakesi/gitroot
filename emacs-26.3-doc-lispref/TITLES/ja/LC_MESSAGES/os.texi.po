@@ -1,0 +1,142 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-28 23:19+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: TITLES/src/os.texi.pl:6
+msgid "@chapter Operating System Interface"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:7
+msgid "@section Starting Up Emacs"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:8
+msgid "@subsection Summary: Sequence of Actions at Startup"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:9
+msgid "@subsection The Init File"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:10
+msgid "@subsection Terminal-Specific Initialization"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:11
+msgid "@subsection Command-Line Arguments"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:12
+msgid "@section Getting Out of Emacs"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:13
+msgid "@subsection Killing Emacs"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:14
+msgid "@subsection Suspending Emacs"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:15
+msgid "@section Operating System Environment"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:16
+msgid "@section User Identification"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:17
+msgid "@section Time of Day"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:18
+msgid "@section Time Zone Rules"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:19
+msgid "@section Time Conversion"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:20
+msgid "@section Parsing and Formatting Times"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:21
+msgid "@section Processor Run time"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:22
+msgid "@section Time Calculations"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:23
+msgid "@section Timers for Delayed Execution"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:24
+msgid "@section Idle Timers"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:25
+msgid "@section Terminal Input"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:26
+msgid "@subsection Input Modes"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:27
+msgid "@subsection Recording Input"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:28
+msgid "@section Terminal Output"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:29
+msgid "@section Sound Output"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:30
+msgid "@section Operating on X11 Keysyms"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:31
+msgid "@section Batch Mode"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:32
+msgid "@section Session Management"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:33
+msgid "@section Desktop Notifications"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:34
+msgid "@section Notifications on File Changes"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:35
+msgid "@section Dynamically Loaded Libraries"
+msgstr ""
+
+#: TITLES/src/os.texi.pl:36
+msgid "@section Security Considerations"
+msgstr ""

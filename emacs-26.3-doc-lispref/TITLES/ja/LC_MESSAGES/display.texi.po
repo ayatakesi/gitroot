@@ -1,0 +1,355 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-28 23:19+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: TITLES/src/display.texi.pl:6
+msgid "@chapter Emacs Display"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:7
+msgid "@section Refreshing the Screen"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:8
+msgid "@section Forcing Redisplay"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:9
+msgid "@section Truncation"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:10
+msgid "@section The Echo Area"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:11
+msgid "@subsection Displaying Messages in the Echo Area"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:12
+msgid "@subsection Reporting Operation Progress"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:13
+msgid "@subsection Logging Messages in @file{*Messages*}"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:14
+msgid "@subsection Echo Area Customization"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:15
+msgid "@section Reporting Warnings"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:16
+msgid "@subsection Warning Basics"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:17
+msgid "@subsection Warning Variables"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:18
+msgid "@subsection Warning Options"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:19
+msgid "@subsection Delayed Warnings"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:20
+msgid "@section Invisible Text"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:21
+msgid "@section Selective Display"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:22
+msgid "@section Temporary Displays"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:23
+msgid "@section Overlays"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:24
+msgid "@subsection Managing Overlays"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:25
+msgid "@subsection Overlay Properties"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:26
+msgid "@subsection Searching for Overlays"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:27
+msgid "@section Size of Displayed Text"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:28
+msgid "@section Line Height"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:29
+msgid "@section Faces"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:30
+msgid "@subsection Face Attributes"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:31
+msgid "@subsection Defining Faces"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:32
+msgid "@subsection Face Attribute Functions"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:33
+msgid "@subsection Displaying Faces"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:34
+msgid "@subsection Face Remapping"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:35
+msgid "@subsection Functions for Working with Faces"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:36
+msgid "@subsection Automatic Face Assignment"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:37
+msgid "@subsection Basic Faces"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:38
+msgid "@subsection Font Selection"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:39
+msgid "@subsection Looking Up Fonts"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:40
+msgid "@subsection Fontsets"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:41
+msgid "@subsection Low-Level Font Representation"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:42
+msgid "@section Fringes"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:43
+msgid "@subsection Fringe Size and Position"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:44
+msgid "@subsection Fringe Indicators"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:45
+msgid "@subsection Fringe Cursors"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:46
+msgid "@subsection Fringe Bitmaps"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:47
+msgid "@subsection Customizing Fringe Bitmaps"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:48
+msgid "@subsection The Overlay Arrow"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:49
+msgid "@section Scroll Bars"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:50
+msgid "@section Window Dividers"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:51
+#, perl-brace-format
+msgid "@section The @code{display} Property"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:52
+msgid "@subsection Display Specs That Replace The Text"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:53
+msgid "@subsection Specified Spaces"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:54
+msgid "@subsection Pixel Specification for Spaces"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:55
+msgid "@subsection Other Display Specifications"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:56
+msgid "@subsection Displaying in the Margins"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:57
+msgid "@section Images"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:58
+msgid "@subsection Image Formats"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:59
+msgid "@subsection Image Descriptors"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:60
+msgid "@subsection XBM Images"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:61
+msgid "@subsection XPM Images"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:62
+msgid "@subsection ImageMagick Images"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:63
+msgid "@subsection SVG Images"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:64
+msgid "@subsection Other Image Types"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:65
+msgid "@subsection Defining Images"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:66
+msgid "@subsection Showing Images"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:67
+msgid "@subsection Multi-Frame Images"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:68
+msgid "@subsection Image Cache"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:69
+msgid "@section Embedded Native Widgets"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:70
+msgid "@section Buttons"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:71
+msgid "@subsection Button Properties"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:72
+msgid "@subsection Button Types"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:73
+msgid "@subsection Making Buttons"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:74
+msgid "@subsection Manipulating Buttons"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:75
+msgid "@subsection Button Buffer Commands"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:76
+msgid "@section Abstract Display"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:77
+msgid "@subsection Abstract Display Functions"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:78
+msgid "@subsection Abstract Display Example"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:79
+msgid "@section Blinking Parentheses"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:80
+msgid "@section Character Display"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:81
+msgid "@subsection Usual Display Conventions"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:82
+msgid "@subsection Display Tables"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:83
+msgid "@subsection Active Display Table"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:84
+msgid "@subsection Glyphs"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:85
+msgid "@subsection Glyphless Character Display"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:86
+msgid "@section Beeping"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:87
+msgid "@section Window Systems"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:88
+msgid "@section Tooltips"
+msgstr ""
+
+#: TITLES/src/display.texi.pl:89
+msgid "@section Bidirectional Display"
+msgstr ""

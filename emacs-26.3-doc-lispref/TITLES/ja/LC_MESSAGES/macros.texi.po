@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-28 23:19+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: TITLES/src/macros.texi.pl:6
+msgid "@chapter Macros"
+msgstr ""
+
+#: TITLES/src/macros.texi.pl:7
+msgid "@section A Simple Example of a Macro"
+msgstr ""
+
+#: TITLES/src/macros.texi.pl:8
+msgid "@section Expansion of a Macro Call"
+msgstr ""
+
+#: TITLES/src/macros.texi.pl:9
+msgid "@section Macros and Byte Compilation"
+msgstr ""
+
+#: TITLES/src/macros.texi.pl:10
+msgid "@section Defining Macros"
+msgstr ""
+
+#: TITLES/src/macros.texi.pl:11
+msgid "@section Common Problems Using Macros"
+msgstr ""
+
+#: TITLES/src/macros.texi.pl:12
+msgid "@subsection Wrong Time"
+msgstr ""
+
+#: TITLES/src/macros.texi.pl:13
+msgid "@subsection Evaluating Macro Arguments Repeatedly"
+msgstr ""
+
+#: TITLES/src/macros.texi.pl:14
+msgid "@subsection Local Variables in Macro Expansions"
+msgstr ""
+
+#: TITLES/src/macros.texi.pl:15
+msgid "@subsection Evaluating Macro Arguments in Expansion"
+msgstr ""
+
+#: TITLES/src/macros.texi.pl:16
+msgid "@subsection How Many Times is the Macro Expanded?"
+msgstr ""
+
+#: TITLES/src/macros.texi.pl:17
+msgid "@section Indenting Macros"
+msgstr ""

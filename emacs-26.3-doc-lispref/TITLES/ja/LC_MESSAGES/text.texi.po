@@ -1,0 +1,242 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-28 23:19+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: TITLES/src/text.texi.pl:6
+msgid "@chapter Text"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:7
+msgid "@section Examining Text Near Point"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:8
+msgid "@section Examining Buffer Contents"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:9
+msgid "@section Comparing Text"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:10
+msgid "@section Inserting Text"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:11
+msgid "@section User-Level Insertion Commands"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:12
+msgid "@section Deleting Text"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:13
+msgid "@section User-Level Deletion Commands"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:14
+msgid "@section The Kill Ring"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:15
+msgid "@subsection Kill Ring Concepts"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:16
+msgid "@subsection Functions for Killing"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:17
+msgid "@subsection Yanking"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:18
+msgid "@subsection Functions for Yanking"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:19
+msgid "@subsection Low-Level Kill Ring"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:20
+msgid "@subsection Internals of the Kill Ring"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:21
+msgid "@section Undo"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:22
+msgid "@section Maintaining Undo Lists"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:23
+msgid "@section Filling"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:24
+msgid "@section Margins for Filling"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:25
+msgid "@section Adaptive Fill Mode"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:26
+msgid "@section Auto Filling"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:27
+msgid "@section Sorting Text"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:28
+msgid "@section Counting Columns"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:29
+msgid "@section Indentation"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:30
+msgid "@subsection Indentation Primitives"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:31
+msgid "@subsection Indentation Controlled by Major Mode"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:32
+msgid "@subsection Indenting an Entire Region"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:33
+msgid "@subsection Indentation Relative to Previous Lines"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:34
+msgid "@subsection Adjustable Tab Stops"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:35
+msgid "@subsection Indentation-Based Motion Commands"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:36
+msgid "@section Case Changes"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:37
+msgid "@section Text Properties"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:38
+msgid "@subsection Examining Text Properties"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:39
+msgid "@subsection Changing Text Properties"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:40
+msgid "@subsection Text Property Search Functions"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:41
+msgid "@subsection Properties with Special Meanings"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:42
+msgid "@subsection Formatted Text Properties"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:43
+msgid "@subsection Stickiness of Text Properties"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:44
+msgid "@subsection Lazy Computation of Text Properties"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:45
+msgid "@subsection Defining Clickable Text"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:46
+msgid "@subsection Defining and Using Fields"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:47
+msgid "@subsection Why Text Properties are not Intervals"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:48
+msgid "@section Substituting for a Character Code"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:49
+msgid "@section Registers"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:50
+msgid "@section Transposition of Text"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:51
+msgid "@section Replacing Buffer Text"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:52
+msgid "@section Dealing With Compressed Data"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:53
+msgid "@section Base 64 Encoding"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:54
+msgid "@section Checksum/Hash"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:55
+msgid "@section GnuTLS Cryptography"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:56
+msgid "@subsection Format of GnuTLS Cryptography Inputs"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:57
+msgid "@subsection GnuTLS Cryptographic Functions"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:58
+msgid "@section Parsing HTML and XML"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:59
+msgid "@subsection Document Object Model"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:60
+msgid "@section Atomic Change Groups"
+msgstr ""
+
+#: TITLES/src/text.texi.pl:61
+msgid "@section Change Hooks"
+msgstr ""

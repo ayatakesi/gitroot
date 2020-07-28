@@ -1,0 +1,126 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-28 23:19+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: TITLES/src/edebug.texi.pl:6
+msgid "@section Edebug"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:7
+msgid "@subsection Using Edebug"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:8
+msgid "@subsection Instrumenting for Edebug"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:9
+msgid "@subsection Edebug Execution Modes"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:10
+msgid "@subsection Jumping"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:11
+msgid "@subsection Miscellaneous Edebug Commands"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:12
+msgid "@subsection Breaks"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:13
+msgid "@subsubsection Edebug Breakpoints"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:14
+msgid "@subsubsection Global Break Condition"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:15
+msgid "@subsubsection Source Breakpoints"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:16
+msgid "@subsection Trapping Errors"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:17
+msgid "@subsection Edebug Views"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:18
+msgid "@subsection Evaluation"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:19
+msgid "@subsection Evaluation List Buffer"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:20
+msgid "@subsection Printing in Edebug"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:21
+msgid "@subsection Trace Buffer"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:22
+msgid "@subsection Coverage Testing"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:23
+msgid "@subsection The Outside Context"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:24
+msgid "@subsubsection Checking Whether to Stop"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:25
+msgid "@subsubsection Edebug Display Update"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:26
+msgid "@subsubsection Edebug Recursive Edit"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:27
+msgid "@subsection Edebug and Macros"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:28
+msgid "@subsubsection Instrumenting Macro Calls"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:29
+msgid "@subsubsection Specification List"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:30
+msgid "@subsubsection Backtracking in Specifications"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:31
+msgid "@subsubsection Specification Examples"
+msgstr ""
+
+#: TITLES/src/edebug.texi.pl:32
+msgid "@subsection Edebug Options"
+msgstr ""

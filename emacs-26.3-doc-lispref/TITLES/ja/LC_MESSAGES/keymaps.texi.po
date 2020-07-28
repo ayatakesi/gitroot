@@ -1,0 +1,142 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-28 23:19+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: TITLES/src/keymaps.texi.pl:6
+msgid "@chapter Keymaps"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:7
+msgid "@section Key Sequences"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:8
+msgid "@section Keymap Basics"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:9
+msgid "@section Format of Keymaps"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:10
+msgid "@section Creating Keymaps"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:11
+msgid "@section Inheritance and Keymaps"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:12
+msgid "@section Prefix Keys"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:13
+msgid "@section Active Keymaps"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:14
+msgid "@section Searching the Active Keymaps"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:15
+msgid "@section Controlling the Active Keymaps"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:16
+msgid "@section Key Lookup"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:17
+msgid "@section Functions for Key Lookup"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:18
+msgid "@section Changing Key Bindings"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:19
+msgid "@section Remapping Commands"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:20
+msgid "@section Keymaps for Translating Sequences of Events"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:21
+msgid "@subsection Interaction with normal keymaps"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:22
+msgid "@section Commands for Binding Keys"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:23
+msgid "@section Scanning Keymaps"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:24
+msgid "@section Menu Keymaps"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:25
+msgid "@subsection Defining Menus"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:26
+msgid "@subsubsection Simple Menu Items"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:27
+msgid "@subsubsection Extended Menu Items"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:28
+msgid "@subsubsection Menu Separators"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:29
+msgid "@subsubsection Alias Menu Items"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:30
+msgid "@subsection Menus and the Mouse"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:31
+msgid "@subsection Menus and the Keyboard"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:32
+msgid "@subsection Menu Example"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:33
+msgid "@subsection The Menu Bar"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:34
+msgid "@subsection Tool bars"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:35
+msgid "@subsection Modifying Menus"
+msgstr ""
+
+#: TITLES/src/keymaps.texi.pl:36
+msgid "@subsection Easy Menu"
+msgstr ""

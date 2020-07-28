@@ -1,0 +1,146 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-28 23:19+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: TITLES/src/processes.texi.pl:6
+msgid "@chapter Processes"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:7
+msgid "@section Functions that Create Subprocesses"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:8
+msgid "@section Shell Arguments"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:9
+msgid "@section Creating a Synchronous Process"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:10
+msgid "@section Creating an Asynchronous Process"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:11
+msgid "@section Deleting Processes"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:12
+msgid "@section Process Information"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:13
+msgid "@section Sending Input to Processes"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:14
+msgid "@section Sending Signals to Processes"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:15
+msgid "@section Receiving Output from Processes"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:16
+msgid "@subsection Process Buffers"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:17
+msgid "@subsection Process Filter Functions"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:18
+msgid "@subsection Decoding Process Output"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:19
+msgid "@subsection Accepting Output from Processes"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:20
+msgid "@subsection Processes and Threads"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:21
+msgid "@section Sentinels: Detecting Process Status Changes"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:22
+msgid "@section Querying Before Exit"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:23
+msgid "@section Accessing Other Processes"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:24
+msgid "@section Transaction Queues"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:25
+msgid "@section Network Connections"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:26
+msgid "@section Network Servers"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:27
+msgid "@section Datagrams"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:28
+msgid "@section Low-Level Network Access"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:29
+msgid "@subsection @code{make-network-process}"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:30
+msgid "@subsection Network Options"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:31
+msgid "@subsection Testing Availability of Network Features"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:32
+msgid "@section Misc Network Facilities"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:33
+msgid "@section Communicating with Serial Ports"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:34
+msgid "@section Packing and Unpacking Byte Arrays"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:35
+msgid "@subsection Describing Data Layout"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:36
+msgid "@subsection Functions to Unpack and Pack Bytes"
+msgstr ""
+
+#: TITLES/src/processes.texi.pl:37
+msgid "@subsection Examples of Byte Unpacking and Packing"
+msgstr ""

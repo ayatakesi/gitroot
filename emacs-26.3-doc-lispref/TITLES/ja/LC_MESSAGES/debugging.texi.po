@@ -1,0 +1,82 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-28 23:19+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: TITLES/src/debugging.texi.pl:6
+msgid "@chapter Debugging Lisp Programs"
+msgstr ""
+
+#: TITLES/src/debugging.texi.pl:7
+msgid "@section The Lisp Debugger"
+msgstr ""
+
+#: TITLES/src/debugging.texi.pl:8
+msgid "@subsection Entering the Debugger on an Error"
+msgstr ""
+
+#: TITLES/src/debugging.texi.pl:9
+msgid "@subsection Debugging Infinite Loops"
+msgstr ""
+
+#: TITLES/src/debugging.texi.pl:10
+msgid "@subsection Entering the Debugger on a Function Call"
+msgstr ""
+
+#: TITLES/src/debugging.texi.pl:11
+msgid "@subsection Entering the debugger when a variable is modified"
+msgstr ""
+
+#: TITLES/src/debugging.texi.pl:12
+msgid "@subsection Explicit Entry to the Debugger"
+msgstr ""
+
+#: TITLES/src/debugging.texi.pl:13
+msgid "@subsection Using the Debugger"
+msgstr ""
+
+#: TITLES/src/debugging.texi.pl:14
+msgid "@subsection Debugger Commands"
+msgstr ""
+
+#: TITLES/src/debugging.texi.pl:15
+msgid "@subsection Invoking the Debugger"
+msgstr ""
+
+#: TITLES/src/debugging.texi.pl:16
+msgid "@subsection Internals of the Debugger"
+msgstr ""
+
+#: TITLES/src/debugging.texi.pl:17
+msgid "@section Debugging Invalid Lisp Syntax"
+msgstr ""
+
+#: TITLES/src/debugging.texi.pl:18
+msgid "@subsection Excess Open Parentheses"
+msgstr ""
+
+#: TITLES/src/debugging.texi.pl:19
+msgid "@subsection Excess Close Parentheses"
+msgstr ""
+
+#: TITLES/src/debugging.texi.pl:20
+msgid "@section Test Coverage"
+msgstr ""
+
+#: TITLES/src/debugging.texi.pl:21
+msgid "@section Profiling"
+msgstr ""

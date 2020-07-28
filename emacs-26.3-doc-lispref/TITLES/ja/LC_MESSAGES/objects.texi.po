@@ -1,0 +1,239 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-28 23:19+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: TITLES/src/objects.texi.pl:6
+msgid "@chapter Lisp Data Types"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:7
+msgid "@section Printed Representation and Read Syntax"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:8
+msgid "@section Comments"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:9
+msgid "@section Programming Types"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:10
+msgid "@subsection Integer Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:11
+msgid "@subsection Floating-Point Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:12
+msgid "@subsection Character Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:13
+msgid "@subsubsection Basic Char Syntax"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:14
+msgid "@subsubsection General Escape Syntax"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:15
+msgid "@subsubsection Control-Character Syntax"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:16
+msgid "@subsubsection Meta-Character Syntax"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:17
+msgid "@subsubsection Other Character Modifier Bits"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:18
+msgid "@subsection Symbol Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:19
+msgid "@subsection Sequence Types"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:20
+msgid "@subsection Cons Cell and List Types"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:21
+msgid "@subsubsection Drawing Lists as Box Diagrams"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:22
+msgid "@subsubsection Dotted Pair Notation"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:23
+msgid "@subsubsection Association List Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:24
+msgid "@subsection Array Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:25
+msgid "@subsection String Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:26
+msgid "@subsubsection Syntax for Strings"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:27
+#, perl-brace-format
+msgid "@subsubsection Non-@acronym{ASCII} Characters in Strings"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:28
+msgid "@subsubsection Nonprinting Characters in Strings"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:29
+msgid "@subsubsection Text Properties in Strings"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:30
+msgid "@subsection Vector Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:31
+msgid "@subsection Char-Table Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:32
+msgid "@subsection Bool-Vector Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:33
+msgid "@subsection Hash Table Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:34
+msgid "@subsection Function Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:35
+msgid "@subsection Macro Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:36
+msgid "@subsection Primitive Function Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:37
+msgid "@subsection Byte-Code Function Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:38
+msgid "@subsection Record Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:39
+msgid "@subsection Type Descriptors"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:40
+msgid "@subsection Autoload Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:41
+msgid "@subsection Finalizer Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:42
+msgid "@section Editing Types"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:43
+msgid "@subsection Buffer Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:44
+msgid "@subsection Marker Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:45
+msgid "@subsection Window Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:46
+msgid "@subsection Frame Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:47
+msgid "@subsection Terminal Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:48
+msgid "@subsection Window Configuration Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:49
+msgid "@subsection Frame Configuration Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:50
+msgid "@subsection Process Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:51
+msgid "@subsection Thread Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:52
+msgid "@subsection Mutex Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:53
+msgid "@subsection Condition Variable Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:54
+msgid "@subsection Stream Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:55
+msgid "@subsection Keymap Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:56
+msgid "@subsection Overlay Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:57
+msgid "@subsection Font Type"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:58
+msgid "@section Read Syntax for Circular Objects"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:59
+msgid "@section Type Predicates"
+msgstr ""
+
+#: TITLES/src/objects.texi.pl:60
+msgid "@section Equality Predicates"
+msgstr ""
